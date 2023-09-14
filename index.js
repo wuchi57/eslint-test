@@ -1,6 +1,6 @@
 const Koa = require('koa')
 
-const app = new Koa()
+const app = new Koa();
 
 // response
 app.use((ctx) => {
